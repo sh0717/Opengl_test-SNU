@@ -1,0 +1,6 @@
+problem 1 
+wasd 키를 사용했습니다.
+
+problem 3 
+fxaa 
+Timothy Lottes의 github source 를 인용했습니다.

@@ -1,0 +1,24 @@
+
+5키를 누르면  일반 그림자 
+6은 poisson sampling 
+
+7은 cascade shadow로 나오게 하였습니다. 
+
+pcf에서 
+
+한 프래그 먼트의 뎁스 값을 그 지점의 쉐도우맵과만 비교하는게 아니라 
+무작위의 4군데의 주변 뎁스와 비교를 해서 평균값을 내도록 하였습니다. 
+
+그리고 cascade 는 총 5개의 레이어를 만들어서 거리순으로 5개의 라이트 매트릭스를 만들고 총 5개의 쉐도우 맵을 만들었습니다. learnopengl를 참조해서 geometry shader 를 포함한 쉐이더를
+새로 만들었습니다. 
+Shader csmShader 
+
+그리고 렌더링을 할 때 각 프래그먼트가 일단 어느 레이어에 속해있는지 (카메라로부터의 거리 확인) 확인한 후에 그에 따른 
+lightmatrix[layer] 와 shadow 맵을 선택해서  lightmatrix에 따른 깊이와 shadow 에서 빛에 제일 가까운 갚을 확인해서 pcf를 이용해서 그림자 값을 결정했습니다. 
+
+그리고 멀수록 bias를 작게 잡아서 쎄게(?) 엄격하게(?) 그림자를 그리도록 했습니다. 
+
+lighting.fs 파일에 각각의 방법으로 shadow값을 선택하도록 함수를 3 개 작성했습니다. 
+CSMcalc=> csm
+ShadowCalc=>pcf
+NormalCalc=> normal
