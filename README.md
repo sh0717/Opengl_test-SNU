@@ -1,6 +1,8 @@
 # Opengl_test-SNU
 Graphics Programming SNU 2022-1 home work
 
+프로그램 실행해보려면 assignemtn 의 각 프로젝트 폴더를 
+visualstudio 로 열고 빌드 실행하면 됩니다.
 
 
 # hw1
