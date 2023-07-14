@@ -1,0 +1,3 @@
+C:/Users/Admin/Documents/GitHub/Opengl_test-SNU/assignments/hw2 skeleton/out/build/x64-Debug/CMakeFiles/main.dir
+C:/Users/Admin/Documents/GitHub/Opengl_test-SNU/assignments/hw2 skeleton/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/Admin/Documents/GitHub/Opengl_test-SNU/assignments/hw2 skeleton/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
