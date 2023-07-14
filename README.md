@@ -4,7 +4,7 @@ Graphics Programming SNU 2022-1 home work
 프로그램 실행해보려면 assignemtn 의 각 프로젝트 폴더를 
 visualstudio 로 열고 빌드 실행하면 됩니다.
 
-
+mp4 file을 통해서 렌더링 결과를 볼 수 있습니다.
 # hw1
 간단한 2d rendering
 
