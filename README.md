@@ -14,6 +14,8 @@ mp4 file을 통해서 렌더링 결과를 볼 수 있습니다.
 # hw2
 간단한 3d rendering 
 
+  
+[![Video Label](http://img.youtube.com/vi/rTB3cQSl1-8/0.jpg)](https://youtu.be/rTB3cQSl1-8)
 # hw3
 bezier 및 테슬레이션과 지오메트리 셰이더 
 
