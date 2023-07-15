@@ -18,8 +18,10 @@ bezier 및 테슬레이션과 지오메트리 셰이더
 노멀 매핑 쉐도우 매핑해보기
 
 # hw5 
-레이트 레이싱 해보기//
-//
+레이트 레이싱 해보기  
+
+
+  
 [![Video Label](http://img.youtube.com/vi/oZ4M4XAnx30/0.jpg)](https://youtu.be/oZ4M4XAnx30)
 
 
