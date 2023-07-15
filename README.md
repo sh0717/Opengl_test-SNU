@@ -19,7 +19,7 @@ bezier 및 테슬레이션과 지오메트리 셰이더
 
 # hw5 
 레이트 레이싱 해보기
-[![Video Label](http://img.youtube.com/vi/oZ4M4XAnx30/0.jpg)](https://www.youtube.com/oZ4M4XAnx30)
+[![Video Label](http://img.youtube.com/vi/oZ4M4XAnx30/0.jpg)](https://youtu.be/oZ4M4XAnx30)
 
 
 # project
