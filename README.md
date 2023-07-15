@@ -19,7 +19,7 @@ bezier 및 테슬레이션과 지오메트리 셰이더
 
 # hw5 
 레이트 레이싱 해보기
-
+[![Video Label](http://img.youtube.com/vi/59USvjy2toI/0.jpg)](https://youtu.be/59USvjy2toI)
 # project
 baseball game 용량관계로 스타디움 관련 resource는 첨부하지 못함(구매한거라 저작권 문제 있을 수도)
 
