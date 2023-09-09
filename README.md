@@ -35,7 +35,7 @@ bezier 및 테슬레이션과 지오메트리 셰이더
   
 [![Video Label](http://img.youtube.com/vi/oZ4M4XAnx30/0.jpg)](https://youtu.be/oZ4M4XAnx30)
 
-
 # project
 baseball game 용량관계로 스타디움 관련 resource는 첨부하지 못함(구매한거라 저작권 문제 있을 수도)
+https://www.youtube.com/watch?v=3BHg2-ZH0o0
 
